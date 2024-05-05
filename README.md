@@ -18,15 +18,6 @@ evaluate.py: Evaluates the trained model using standard performance metrics.
 deploy.py: Deploys the trained model for inference on new handwritten images.
 README.md: Documentation for the project.
 
-Usage
-Clone the repository:
-bash
-Copy code
-git clone https://github.com/your-username/handwriting-detection.git
-cd handwriting-detection
-Download the IAM Handwritten Forms Dataset from Kaggle and place it in the data/ directory.
-
-
 Requirements
 Python 3.x
 TensorFlow
